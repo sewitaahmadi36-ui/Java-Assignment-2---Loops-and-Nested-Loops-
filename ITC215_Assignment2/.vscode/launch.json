@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Task2_2_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task2_2_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task6_3_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task6_3_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task5_3_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task5_3_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task5_2_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task5_2_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task6_2_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task6_2_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task6_1_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task6_1_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task5_4_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task5_4_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task5_2_YourLastName",
+            "request": "launch",
+            "mainClass": "Task5_2_YourLastName",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task5_1_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task5_1_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task4_4_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task4_4_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task4_3_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task4_3_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task4_2_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task4_2_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task3_4_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task3_4_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task3_3_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task3_3_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task3_3_YourLastName",
+            "request": "launch",
+            "mainClass": "Task3_3_YourLastName",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task3_2_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task3_2_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task3_1_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task3_1_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task2_5_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task2_5_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task2_4_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task2_4_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task2_3_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task2_3_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task2_2_YourLastName",
+            "request": "launch",
+            "mainClass": "Task2_2_YourLastName",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Task2_1_Ahmadi",
+            "request": "launch",
+            "mainClass": "Task2_1_Ahmadi",
+            "projectName": "ITC215_Assignment2_380044fd"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
